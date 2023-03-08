@@ -1,1 +1,2 @@
 chmod +X print_current_directory.sh
+^#!/bin/bash
