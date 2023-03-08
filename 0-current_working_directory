@@ -1,2 +1,2 @@
-^#!/bin/bash
-chmod +X print_current_directory.sh
+#!/bin/bash
+chmod +X print_0-current_working_directory.sh
